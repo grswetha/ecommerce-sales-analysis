@@ -26,7 +26,7 @@ improve delivery operations.
 4. How is delivery performance — on time vs late?
 
 ## Key Insights
-- **Health & Beauty** is the top revenue category at R$1.23M, followed by Watches and Bed/Bath
+- **Health & Beauty** is the top revenue category at RS 1.23M, followed by Watches and Bed/Bath
 - **São Paulo (SP)** accounts for the largest share of revenue at R$5M+
 - Orders grew steadily from 2016 to a **peak in November 2017**, showing strong seasonality
 - **92% of orders** were delivered on time with a median delivery time of 12 days
